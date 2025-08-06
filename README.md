@@ -37,3 +37,7 @@ Password-Generator/
     ├── copy.svg
 
     └── favicon.ico
+
+# ✨ Preview
+
+![password-generator](https://github.com/user-attachments/assets/a4323785-e353-427f-8b09-01dfe1772f83)
