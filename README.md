@@ -25,7 +25,7 @@
 
 ---
 # ✨ Preview
-<img href="https://github.com/user-attachments/assets/a4323785-e353-427f-8b09-01dfe1772f83" />
+![password-generator](https://github.com/user-attachments/assets/4d3614ca-f6af-4e5d-8a2b-e80d89815a31)
 
 
 ## 📁 Folder Structure
@@ -40,6 +40,7 @@ Password-Generator/
     ├── copy.svg
 
     └── favicon.ico
+
 
 
 
