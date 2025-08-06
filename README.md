@@ -40,7 +40,10 @@ Password-Generator/
 
 # ✨ Preview
 
-<img src="https://github.com/user-attachments/assets/a4323785-e353-427f-8b09-01dfe1772f83" />
+<img href="https://github.com/user-attachments/assets/a4323785-e353-427f-8b09-01dfe1772f83" />
+![password-generator](https://github.com/user-attachments/assets/b78839b6-d5c5-4858-bfca-9a24c4050b12)
+
+
 
 
 
